@@ -1,0 +1,14 @@
+project:
+  name: "CHANGE_ME"
+  roadmap_id: "r1"
+
+commands:
+  build: "CHANGE_ME"
+  test: "CHANGE_ME"
+  e2e: "CHANGE_ME"
+
+workflow:
+  max_phase_context_percent: 42
+  one_phase_per_session: true
+  require_phase_log: true
+  require_commit: true
